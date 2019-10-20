@@ -1,4 +1,8 @@
 # Pythong_Learning
 These are the Python projects done while trying to learn Python
-This is a test message to test Github Updating
+
+# Python Project
+To run Python program use Python3 command 
+
+'pyhton3 meteor_project.py'
 
