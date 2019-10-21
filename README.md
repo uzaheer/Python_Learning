@@ -13,4 +13,4 @@ pip3 install pipenv
 install the required packeges in the Pipfile.
 
 pipenv install request
-pipenv run python meteor_project
+pipenv run python code/meteor_project
