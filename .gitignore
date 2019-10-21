@@ -1,3 +1,5 @@
+# Ignore the Lock File for Pip
+Pipfile.lock
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
